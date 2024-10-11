@@ -3,6 +3,8 @@
 ## Introducción
 Este repositorio contiene las instrucciones detalladas para llevar a cabo la instalación completa del ORM, tanto a nivel de la base de datos como en la capa del cliente.
 
+<u>**Link de descargar contenido interfaz de usuario:**</u> https://app.box.com/s/cee5kmh44cvjdzslpvu72g1kbf4xu6j2
+
 ## Instalación de Scripts en la Base de Datos para la creación del esquema ORM
 
 **<u>Importante:</u>**
